@@ -1,3 +1,6 @@
+# Custom
+/backend/tasks.db
+
 # Logs
 logs
 *.log
